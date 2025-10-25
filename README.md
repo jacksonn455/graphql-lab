@@ -96,14 +96,8 @@ Future improvements planned for this learning project:
 - [ ] Add input validation
 - [ ] Write unit tests
 
-## License
-
-This is a learning project and is open for educational purposes.
-
 ## Author
 
-Created while learning GraphQL concepts and best practices.
+<img src="https://avatars1.githubusercontent.com/u/46221221?s=460&u=0d161e390cdad66e925f3d52cece6c3e65a23eb2&v=4" width=115>  
 
----
-
-**Happy coding! 🚀**
+<sub>@jacksonn455</sub>
